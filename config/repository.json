@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "organization": "vrchat-cyber-cemetery",
+  "repository": "world",
+  "role": "unity-world",
+  "main_repository": "vrchat-cyber-cemetery.github.io",
+  "protocol_version": 1,
+  "layout_version": "cemetery-v1",
+  "site_base": null,
+  "runtime_status": "not_implemented",
+  "target_platform": "windows_pc_pcvr",
+  "catalog_url": "https://vrchat-cyber-cemetery.github.io/catalog.json",
+  "regions_base": "https://vrchat-cyber-cemetery.github.io/regions",
+  "data_site_bases": [
+    "https://vrchat-cyber-cemetery.github.io/world-data-0",
+    "https://vrchat-cyber-cemetery.github.io/world-data-1"
+  ]
+}
